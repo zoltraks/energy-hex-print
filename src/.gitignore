@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.pubxml
+*.deps.*
+bin/
+obj/
+publish/
+packages/
